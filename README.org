@@ -1,0 +1,10 @@
+* cl-libpuzzle
+
+libpuzzle binding for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pocket7878/cl-libpuzzle.git   |
+| commit  | 24dd040  |
+| systems | cl-libpuzzle |
+|---------+-------------------------------------------|
+
