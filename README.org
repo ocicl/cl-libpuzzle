@@ -8,4 +8,4 @@ libpuzzle binding for Common Lisp
 | systems | cl-libpuzzle |
 |---------+-------------------------------------------|
 
- 
+  
